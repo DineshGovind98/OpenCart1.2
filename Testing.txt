@@ -1,1 +1,5 @@
 Thi is note of sample file
+
+THis is first sample
+second smaple
+third sample
