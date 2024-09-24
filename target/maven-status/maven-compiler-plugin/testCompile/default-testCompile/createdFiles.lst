@@ -1,0 +1,17 @@
+testCases\TC002_LoginTestDDT.class
+pageObjects\MonitorsPage.class
+pageObjects\HomePage.class
+pageObjects\TabletPage.class
+testCases\TC004_Components_addMonitorPage.class
+pageObjects\MyAccountPage.class
+utilities\ExcelUtility.class
+testBase\BaseClass.class
+pageObjects\AddtoCartPage.class
+pageObjects\LoginPage.class
+pageObjects\MyActRegistrationPage.class
+testCases\TC002_LoginPageTest.class
+pageObjects\BasePage.class
+utilities\ExtentReportManager.class
+utilities\DataProviders.class
+testCases\TC001_AccountRegTest.class
+testCases\TC003_MyCartPage_Test.class
