@@ -8,13 +8,13 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="Chrome"/>
     <classes>
-      <class name="testCases.TC004_Components_addMonitorPage">
+      <class name="testCases.TC005_HappyPath_IphoneAdd_Test">
         <methods>
           <include name="teardown"/>
-          <include name="verifyAddMonitorTest"/>
+          <include name="addIphoneToCart"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.TC004_Components_addMonitorPage -->
+      </class> <!-- testCases.TC005_HappyPath_IphoneAdd_Test -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

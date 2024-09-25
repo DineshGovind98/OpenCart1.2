@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
   <listeners>
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
-  <test thread-count="5" name="Test(failed)">
+  <test thread-count="5" name="Test(failed)" verbose="0">
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="Chrome"/>
     <classes>
-      <class name="testCases.TC005_HappyPath_IphoneAdd_Test">
+      <class name="testCases.TC004_Components_addMonitorPage">
         <methods>
           <include name="teardown"/>
-          <include name="addIphoneToCart"/>
+          <include name="verifyAddMonitorTest"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.TC005_HappyPath_IphoneAdd_Test -->
+      </class> <!-- testCases.TC004_Components_addMonitorPage -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

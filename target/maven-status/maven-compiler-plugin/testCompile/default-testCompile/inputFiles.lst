@@ -2,6 +2,7 @@ C:\Workspace\Automation\OpenCart1.2\src\test\java\pageObjects\AddtoCartPage.java
 C:\Workspace\Automation\OpenCart1.2\src\test\java\pageObjects\BasePage.java
 C:\Workspace\Automation\OpenCart1.2\src\test\java\pageObjects\HomePage.java
 C:\Workspace\Automation\OpenCart1.2\src\test\java\pageObjects\LoginPage.java
+C:\Workspace\Automation\OpenCart1.2\src\test\java\pageObjects\MobilePage.java
 C:\Workspace\Automation\OpenCart1.2\src\test\java\pageObjects\MonitorsPage.java
 C:\Workspace\Automation\OpenCart1.2\src\test\java\pageObjects\MyAccountPage.java
 C:\Workspace\Automation\OpenCart1.2\src\test\java\pageObjects\MyActRegistrationPage.java
@@ -12,6 +13,8 @@ C:\Workspace\Automation\OpenCart1.2\src\test\java\testCases\TC002_LoginPageTest.
 C:\Workspace\Automation\OpenCart1.2\src\test\java\testCases\TC002_LoginTestDDT.java
 C:\Workspace\Automation\OpenCart1.2\src\test\java\testCases\TC003_MyCartPage_Test.java
 C:\Workspace\Automation\OpenCart1.2\src\test\java\testCases\TC004_Components_addMonitorPage.java
+C:\Workspace\Automation\OpenCart1.2\src\test\java\testCases\TC004_SearchFunctionality.java
+C:\Workspace\Automation\OpenCart1.2\src\test\java\testCases\TC005_HappyPath_IphoneAdd_Test.java
 C:\Workspace\Automation\OpenCart1.2\src\test\java\utilities\DataProviders.java
 C:\Workspace\Automation\OpenCart1.2\src\test\java\utilities\ExcelUtility.java
 C:\Workspace\Automation\OpenCart1.2\src\test\java\utilities\ExtentReportManager.java

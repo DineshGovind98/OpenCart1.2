@@ -2,12 +2,15 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-24T10:26:31 IST" name="Suite" finished-at="2024-09-24T10:26:42 IST" duration-ms="11337">
+  <suite started-at="2024-09-25T11:22:01 IST" name="Suite" finished-at="2024-09-25T11:22:11 IST" duration-ms="9949">
     <groups>
+      <group name="Regression">
+        <method signature="TC005_HappyPath_IphoneAdd_Test.addIphoneToCart()[pri:0, instance:testCases.TC005_HappyPath_IphoneAdd_Test@a3d9978]" name="addIphoneToCart" class="testCases.TC005_HappyPath_IphoneAdd_Test"/>
+      </group> <!-- Regression -->
     </groups>
-    <test started-at="2024-09-24T10:26:31 IST" name="Test" finished-at="2024-09-24T10:26:42 IST" duration-ms="11337">
-      <class name="testCases.TC004_Components_addMonitorPage">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_Components_addMonitorPage@4b41dd5c]" started-at="2024-09-24T10:26:31 IST" name="setup" finished-at="2024-09-24T10:26:35 IST" duration-ms="3837" status="PASS">
+    <test started-at="2024-09-25T11:22:01 IST" name="Test" finished-at="2024-09-25T11:22:11 IST" duration-ms="9949">
+      <class name="testCases.TC005_HappyPath_IphoneAdd_Test">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC005_HappyPath_IphoneAdd_Test@a3d9978]" started-at="2024-09-25T11:22:01 IST" name="setup" finished-at="2024-09-25T11:22:05 IST" duration-ms="3748" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,15 +26,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyAddMonitorTest()[pri:0, instance:testCases.TC004_Components_addMonitorPage@4b41dd5c]" started-at="2024-09-24T10:26:35 IST" name="verifyAddMonitorTest" finished-at="2024-09-24T10:26:42 IST" duration-ms="7025" status="PASS">
+        <test-method signature="addIphoneToCart()[pri:0, instance:testCases.TC005_HappyPath_IphoneAdd_Test@a3d9978]" started-at="2024-09-25T11:22:05 IST" name="addIphoneToCart" finished-at="2024-09-25T11:22:10 IST" duration-ms="5561" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyAddMonitorTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC004_Components_addMonitorPage@4b41dd5c]" started-at="2024-09-24T10:26:42 IST" name="teardown" finished-at="2024-09-24T10:26:42 IST" duration-ms="242" status="PASS">
+        </test-method> <!-- addIphoneToCart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC005_HappyPath_IphoneAdd_Test@a3d9978]" started-at="2024-09-25T11:22:10 IST" name="teardown" finished-at="2024-09-25T11:22:11 IST" duration-ms="348" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- testCases.TC004_Components_addMonitorPage -->
+      </class> <!-- testCases.TC005_HappyPath_IphoneAdd_Test -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

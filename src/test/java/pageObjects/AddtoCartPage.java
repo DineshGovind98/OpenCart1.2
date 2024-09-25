@@ -21,6 +21,8 @@ public class AddtoCartPage extends BasePage {
 	@FindBy(xpath = "//a[normalize-space()='Monitors (2)']")
 	WebElement macProduct;
 
+	@FindBy(xpath="//ul[@class='nav navbar-nav']//a[contains(text(),'Phones & PDAs')]")WebElement phones;
+	
 	public void clkHeader() {
 		prd_Tablets.click();
 	}
@@ -31,4 +33,7 @@ public class AddtoCartPage extends BasePage {
 
 	}
 
+	public void clkPhones() {
+		phones.click();
+	}
 }

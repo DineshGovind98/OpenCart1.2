@@ -1,0 +1,14 @@
+2024-09-25 11:17:32 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspace\Automation\OpenCart1.2\master.xml"
+2024-09-25 11:17:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspace\Automation\OpenCart1.2\master.xml
+
+2024-09-25 11:17:39 INFO  TC005_HappyPath_IphoneAdd_Test:16 - **********StartingTC005_HappyPath_IphoneAdd_Test
+2024-09-25 11:21:14 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspace\Automation\OpenCart1.2\master.xml"
+2024-09-25 11:21:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspace\Automation\OpenCart1.2\master.xml
+
+2024-09-25 11:21:19 INFO  TC005_HappyPath_IphoneAdd_Test:16 - **********StartingTC005_HappyPath_IphoneAdd_Test
+2024-09-25 11:21:24 INFO  TC005_HappyPath_IphoneAdd_Test:34 - **********Finished TC005_HappyPath_IphoneAdd_Test
+2024-09-25 11:22:01 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspace\Automation\OpenCart1.2\master.xml"
+2024-09-25 11:22:05 INFO  TC005_HappyPath_IphoneAdd_Test:16 - **********StartingTC005_HappyPath_IphoneAdd_Test
+2024-09-25 11:22:10 INFO  TC005_HappyPath_IphoneAdd_Test:34 - **********Finished TC005_HappyPath_IphoneAdd_Test
